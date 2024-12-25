@@ -1,5 +1,7 @@
 # JB Fashion-Store-Data-Analysis-Using-Excel
-JB Fashion Store Data Analysis Using Excel
+
+Download the [dataset](https://docs.google.com/spreadsheets/d/12IkE1PLFDqymEsJvnxPoFDuwncDPbbWHzxJQrh-DFw4/edit#gid=1594378259) from here.
+
 # Objective
 Fashion Store wants to create an annual sales report for 2023. So that, this store can understand their customers and grow more sales in 2024. Implemented an advanced Fashion Store Dashboard using EXCEL.
 # Sample Insights
