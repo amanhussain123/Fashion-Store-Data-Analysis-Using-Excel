@@ -8,7 +8,7 @@ Fashion Store wants to create an annual sales report for 2023. So that, this sto
 # Sample Insights
 * Women are more likely to buy compared to men (~65%)
 
-*Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35)
+* Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35)
 
 * Adult age group (30-49 yrs) is max contributing (~50%)
 
