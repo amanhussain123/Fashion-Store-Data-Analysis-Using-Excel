@@ -2,7 +2,7 @@
 
 Download the [dataset](https://docs.google.com/spreadsheets/d/1CRDkb65STNmIPRRbe1GOC_741alKNF-SRZiU_r4iYuw/edit?gid=1170306428#gid=1170306428) from here.
 
-Download the [Complete Report] (https://1drv.ms/x/s!Aq-jDOb51wkFjlbGljnKpzafjj6g?e=ZCRGC5)
+Download the Complete .[Report](https://1drv.ms/x/s!Aq-jDOb51wkFjlbGljnKpzafjj6g?e=ZCRGC5) from here
 # Objective
 Fashion Store wants to create an annual sales report for 2023. So that, this store can understand their customers and grow more sales in 2024. Implemented an advanced Fashion Store Dashboard using EXCEL.
 # Sample Insights
